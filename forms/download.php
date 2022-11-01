@@ -1,5 +1,5 @@
 <?php  
-$file_url = 'media/Nitheshwaran T Resume.pdf';  
+$file_url = 'media/facebook.png';  
 header('Content-Type: application/octet-stream');  
 header("Content-Transfer-Encoding: Binary");   
 header("Content-disposition: attachment; filename=\"" . basename($file_url) . "\"");   
